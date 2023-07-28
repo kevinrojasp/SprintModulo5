@@ -19,7 +19,6 @@ Hemos integrado nuestra aplicación con una base de datos MySQL, lo que nos perm
 
 ### Servidor 💻
 Para probar nuestro proyecto en un entorno local, utilizamos el servidor Apache Tomcat versión 10.1.11. Durante nuestras pruebas, no encontramos ningún problema, lo que nos asegura que nuestro proyecto está listo para su despliegue.
-Caterin nos encontró errores
 
 ### Repositorio 🗂️
 El código fuente de nuestro proyecto se encuentra disponible en los repositorios de Git de cada miembro de nuestro equipo. Si deseas explorar, colaborar o revisar nuestro código, estaremos encantados de compartir los enlaces correspondientes.
